@@ -1,4 +1,4 @@
-# CS50-s-Introduction-to-Programming-with-Python-2022
+# CS50-Introduction-to-Programming-with-Python-2022
 
 # Welcome!
 
